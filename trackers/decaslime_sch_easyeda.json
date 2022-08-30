@@ -1,13 +1,13 @@
 {
   "editorVersion": "6.5.15",
   "docType": "5",
-  "title": "TRACKERV3_SHAPECHANGE",
+  "title": "decaslime",
   "description": "",
   "colors": {},
   "schematics": [
     {
       "docType": "1",
-      "title": "Sheet_1 copy copy",
+      "title": "decaslime_schematic",
       "description": "",
       "dataStr": {
         "head": {
@@ -117,9 +117,9 @@
         ],
         "BBox": {
           "x": 0,
-          "y": -807,
+          "y": -806.6,
           "width": 1149,
-          "height": 807.5
+          "height": 806.9
         },
         "colors": {
           "background": "#000000",
